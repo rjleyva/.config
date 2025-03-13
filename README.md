@@ -1,4 +1,4 @@
-# RJ Leyva's dotfiles 🚀
+# RJ Leyva's .config files 🚀
 
 I’ve always believed that the tools we use not only shape our workflow but also influence our mindset and creativity. Inspired by Josean Martinez’s Neovim setup, I began my own journey to craft a personalized, efficient workspace.
 
