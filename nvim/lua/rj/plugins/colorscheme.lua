@@ -31,10 +31,10 @@ return {
 --   lazy = false,
 --   priority = 1000,
 --   config = function()
---     -- Set colorscheme using Lua
+--     -- Set the colorscheme
 --     vim.cmd("colorscheme nord")
 --
---     -- Configure nord.nvim settings
+--     -- Configure  settings
 --     vim.g.nord_contrast = true
 --     vim.g.nord_borders = false
 --     vim.g.nord_disable_background = true
