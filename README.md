@@ -31,6 +31,8 @@ This repository serves as:
 
 ### Terminal Enhancements
 
+![Yazi](/images/yazi.png)
+
 - Oh My Zsh – Zsh configuration framework (Robby Russell)
 - eza – Modern ls replacement (Christina Sørensen)
 - bat – Syntax-highlighted cat alternative (David Peter)
