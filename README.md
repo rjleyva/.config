@@ -31,7 +31,7 @@ This repository serves as:
 
 ### Terminal Enhancements
 
-![Yazi](/images/yazi.png)
+![bat](/images/bat.png)
 
 - Oh My Zsh – Zsh configuration framework (Robby Russell)
 - eza – Modern ls replacement (Christina Sørensen)
@@ -40,6 +40,8 @@ This repository serves as:
 - tree – Directory structure visualization (Steve Baker)
 
 ### Terminal Workflow
+
+![Yazi](/images/yazi.png)
 
 - tmux – Terminal multiplexer created by (Nicholas Marriott)
 - The Fuck created by nvbn (Andrey Sitnik)
