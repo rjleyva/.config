@@ -1,5 +1,7 @@
 # RJ Leyva's .config files 🚀
 
+![Neovim](/images/neovim.png)
+
 I’ve always believed that the tools we use not only shape our workflow but also influence our mindset and creativity. Inspired by Josean Martinez’s Neovim setup, I began my own journey to craft a personalized, efficient workspace.
 
 I have a deep respect for Folke’s work and have spent a lot of time exploring his LazyVim distribution. While it’s an amazing tool, I wanted a fresh start something I could build from the ground up. That’s why I transitioned to Josean’s personal configuration as a foundation, gradually tweaking it to fit my evolving workflow. So far, I’ve removed the status line, simplified the dashboard, and embraced a more minimalist approach to help me focus on what truly matters.
