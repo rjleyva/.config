@@ -26,15 +26,14 @@
 --   end,
 -- }
 
+-- catppuccin config
+
 return {
   "catppuccin/nvim",
   name = "catppuccin",
   lazy = false,
   priority = 1000,
   config = function()
-    -- Load the colorscheme
-    vim.cmd.colorscheme("catppuccin-macchiato")
-
     -- Default Settings for catppuccin-macchiato
     require("catppuccin").setup({
       flavour = "macchiato",
@@ -69,5 +68,8 @@ return {
         },
       },
     })
+
+    -- Load the colorscheme after configuration
+    vim.cmd("colorscheme catppuccin-macchiato")
   end,
 }
